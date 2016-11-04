@@ -1,0 +1,9 @@
+enabled: false
+ldapHost: ""
+ldapPort: 0
+bindDN: ""
+userSearchBase: ""
+userNameAttribute: ""
+userMailAttribute: ""
+groupSearchBase: ""
+groupAttribute: ""

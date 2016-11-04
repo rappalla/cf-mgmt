@@ -2,4 +2,8 @@ git_repo_uri: https://github.com/appalrpivotal/cf-mgmt
 system_domain: api.local.pcfdev.io
 user_id: admin
 password: admin
+<<<<<<< HEAD
 client_secret: admin-client-secret
+=======
+client_secret: admin-client-secret
+>>>>>>> fe08cbc4a0cd9c0d74e93fc1033e65c61eb9efb4
